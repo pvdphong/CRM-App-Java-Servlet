@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/java/constants/MessageConstants.java=UTF-8
+encoding//src/com/java/controller/AuthController.java=UTF-8
+encoding//src/com/java/controller/HomeController.java=UTF-8
+encoding//src/com/java/controller/RoleController.java=UTF-8
+encoding//src/com/java/filter/AuthFilter.java=UTF-8
+encoding//src/com/java/filter/Utf8Filter.java=UTF-8
+encoding//src/com/java/service/JobService.java=UTF-8
+encoding//src/com/java/service/RoleService.java=UTF-8
+encoding//src/com/java/service/UserService.java=UTF-8
